@@ -2,6 +2,6 @@ SimpleGridView
 ==============
 
 It's a basic grid layout component for iOS development.
-You can define a column number and a margin (or not) and after, you add subview with classic UIView method "addSubview" to rendering the grid.
-It use SimpleGridView component size to define subviews size.
+You can define a column number and a margin (or not) and after add subview with classic UIView method "addSubview" to rendering the grid.
+It uses SimpleGridView component size to define subviews size.
 
